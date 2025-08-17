@@ -28,7 +28,8 @@ def mostrar_menu():
         '3': 'EjemplosMundoReal_POO/POO.py',
         '4': 'Calculo_temperaturas/Calculo de temperaturas - semana 5.py',
         '5': 'Clases_Semana_6/Clases, objetos, herencia, encapsulamiento y polimorfismo.py',
-        '6': 'Constructores y Destructores - Deber semana 7/Constructores y destructores.py'
+        '6': 'Constructores y Destructores - Deber semana 7/Constructores y destructores.py',
+        '7': 'Sistema de Gestión de Inventarios Semana 9/Sistema de Gestión de Inventarios.py'
         # Agrega aquí el resto de las rutas de los scripts
     }
 
