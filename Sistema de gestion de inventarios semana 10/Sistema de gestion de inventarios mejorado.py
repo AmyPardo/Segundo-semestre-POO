@@ -1,4 +1,4 @@
-# Definicion de la clase producto..
+# Definicion de la clase producto....
 class Productos:
     #Inicializacion de los atributos
     def __init__(self, codigo_producto, nombre, cantidad, precio):
@@ -27,7 +27,7 @@ class Inventario:
                     f.write(str(p) + "\n")
             print("El inventario ha sido guardado correctamente.")
 
-        #Uso de excepciones para evitar errores de consola
+        #Uso de excepciones para evitar errores de consola|
         except PermissionError:
             print("Error: Solicita primero los permisos correspondientes.")
         except Exception as e:
