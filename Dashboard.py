@@ -31,7 +31,8 @@ def mostrar_menu():
         '6': 'Constructores y Destructores - Deber semana 7/Constructores y destructores.py',
         '7': 'Sistema de Gestión de Inventarios Semana 9/Sistema de Gestión de Inventarios.py',
         '8': 'Fundamentos de colecciones - Semana 11/Fundamentos de colecciones.py',
-        '9': 'Utilización de colecciones para la mejora de rendimiento - Semana 12/Utilización de colecciones para la mejora de rendimiento.py'
+        '9': 'Utilización de colecciones para la mejora de rendimiento - Semana 12/Utilización de colecciones para la mejora de rendimiento.py',
+        '10': 'Conceptos fundamentales de interfaces gráficas de usuario/Conceptos fundamentales de interfaces gráficas de usuario - Semana 13.py'
         # Agrega aquí el resto de las rutas de los scripts
     }
 
